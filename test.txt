@@ -3,3 +3,4 @@ a
 Creating a new branch is quick and simple .
 
 second.
+v1.0
